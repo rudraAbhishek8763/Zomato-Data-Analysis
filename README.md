@@ -1,5 +1,10 @@
 # 🍽 Zomato Data Analysis Project
 ---
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![Data Analysis](https://img.shields.io/badge/Domain-Data%20Analysis-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+---
 
 ## 👨‍💻 Author
 **Rudra Abhishek**
